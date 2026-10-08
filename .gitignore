@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+uploads/
+outputs/
+evidence/
+*.mp4
+*.avi
+*.mov
